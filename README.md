@@ -11,11 +11,11 @@ Handling upvotes with a persistent data
 - **ESLint & Prettier** - Code linting and formatting
 
 ## 📂 Project Structure
-├── src/ # Main source code directory 
-│ ├── components/ # Reusable components 
-│ ├── store/ # Global state management
-│ ├── types/ # TypeScript type definitions 
-│ └── utility/ # Helper functions
+├── src/ # Main source code directory <br />
+│ ├── components/ # Reusable components <br />
+│ ├── store/ # Global state management <br />
+│ ├── types/ # TypeScript type definitions <br />
+│ └── utility/ # Helper functions <br />
 
 ## 🛠 Setup
 - Install dependencies `npm install`

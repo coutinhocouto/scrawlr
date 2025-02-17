@@ -15,7 +15,7 @@ Handling upvotes with a persistent data
 │ ├── components/ # Reusable components 
 │ ├── store/ # Global state management
 │ ├── types/ # TypeScript type definitions 
-│ └── utility/ # Helper functions
+│ └── utils/ # Helper functions
 
 ## 🛠 Setup
 - Install dependencies `npm install`

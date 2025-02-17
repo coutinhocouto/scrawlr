@@ -1,5 +1,5 @@
 import { ArrowUpIcon } from "@heroicons/react/24/solid";
-import cn from '@/utility/cn';
+import cn from '@/utils/cn';
 
 const UpArrow = ({ isActive }: { isActive: boolean }) => {
 	return (

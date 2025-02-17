@@ -12,7 +12,7 @@
       "@/components/*": ["src/components/*"],
       "@/store/*": ["src/store/*"],
       "@/types/*": ["src/types/*"],
-      "@/utility/*": ["src/utility/*"]
+      "@/utils/*": ["src/utils/*"]
     },
 
     /* Bundler mode */

@@ -10,7 +10,7 @@ export default defineConfig({
       '@/components': resolve(__dirname, 'src/components'),
       '@/store': resolve(__dirname, 'src/store'),
       '@/types': resolve(__dirname, 'src/types'),
-      '@/utility': resolve(__dirname, 'src/utility')
+      '@/utils': resolve(__dirname, 'src/utils')
     },
   },
 	plugins: [react(), tailwindcss()],
